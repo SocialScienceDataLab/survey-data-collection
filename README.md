@@ -8,6 +8,6 @@ Fielding an online survey with an access panel or crowdsourcing platform can be 
 
 📝 [Slides](https://github.com/SocialScienceDataLab/survey-data-collection/blob/main/slides-survey-data-collection.pdf)
 
-👤 Johanna Gereke[https://johanna-gereke.netlify.app/] is a postdoctoral research fellow at the Mannheim Centre for European Social Research (MZES). Her current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies and draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
+👤 [Johanna Gereke](https://johanna-gereke.netlify.app/) is a postdoctoral research fellow at the Mannheim Centre for European Social Research (MZES). Her current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies and draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
 
-👤 Joshua Hellyer[https://twitter.com/hellyer_josh] is a doctoral researcher at the Mannheim Centre for European Social Research (MZES). His research focuses on discrimination against ethnic and sexual minorities, particularly in the housing and labor markets.
+👤 [Joshua Hellyer](https://twitter.com/hellyer_josh) is a doctoral researcher at the Mannheim Centre for European Social Research (MZES). His research focuses on discrimination against ethnic and sexual minorities, particularly in the housing and labor markets.
